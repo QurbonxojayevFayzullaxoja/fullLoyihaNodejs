@@ -1,0 +1,29 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "sopping",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "mongo",
+    "react",
+    "express",
+    "node"
+  ],
+  "author": "Fayzullaxo'ja",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
